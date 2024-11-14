@@ -1,8 +1,8 @@
-# Basic Project to Dockerize Django Web Application for Checking Prime Numbers
+# Mini Project to Dockerize Django Web Application for Checking Prime Numbers
 
 ## Project Overview
 
-This is a basic web application built using Django that checks whether a given number is prime or not. The application has been Dockerized to ensure easy deployment and development, with separate Docker containers for the frontend and backend components.
+This is a basic web application built using Django that checks whether a given number is prime or not. The application has been Dockerized with separate Docker containers for the frontend and backend components.
 
 ### Features:
 - **Frontend:** Simple UI built with HTML, CSS (Tailwind), and JavaScript to interact with the user.
